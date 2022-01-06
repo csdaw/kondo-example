@@ -1,9 +1,10 @@
 baseurl = "/"
 languageCode = "en-au"
-title = "This is the title"
+title = "Charlotte Dawson"
 theme = "kondo"
 copyright = "CC BY 4.0"
 pluralizelisttitles = false
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [[menu.main]]
   name = "Home"
