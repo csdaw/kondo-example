@@ -23,3 +23,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   
 [params]
   author = "Charlotte Dawson"
+  darkmodetoggle = true
+  gototop = true
+  footer = "[Home](/) [License](/license/) [Source](https://github.com/csdaw/kondo-example)"
+
+[markup]
+  [markup.highlight]
+    noclasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
