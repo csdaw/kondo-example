@@ -1,0 +1,23 @@
+notes:
+
+- need to adjust text size and border for footnotes
+(see https://derekkedziora.com/blog/paper-of-record)
+
+- need 1st level of unnumbered lists to have dot points slightly further to the left
+(maybe use text-align: match-parent)
+(see https://derekkedziora.com/blog/snow-crash)
+
+- second level of unnumbered lists
+(see https://derekkedziora.com/blog/digital-tidying-the-links)
+
+- same with numbered lists
+(see https://derekkedziora.com/blog/western-consensus-thinking)
+
+- maybe make aside class 
+(see https://derekkedziora.com/blog/corona-western-consensus-thinking)
+
+- quotes should have slightly different font size
+(see https://derekkedziora.com/blog/imperialism-of-chomsky)
+
+
+got up to here https://derekkedziora.com/blog/ideology-product
