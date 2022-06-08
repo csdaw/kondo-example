@@ -72,6 +72,20 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
 </html>
 ```
 
+```r
+# a comment which is really really really really really really really really really really long
+for (i in seq_len(10)) {
+  print(TRUE)
+  print(1:2)
+  print("string")
+}
+```
+
+```python
+for i in 1:3:
+  # do something
+```
+
 #### Code block indented with four spaces
 
     <!doctype html>
@@ -86,7 +100,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
     </html>
 
 #### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
+{{< highlight html "linenos=table,hl_lines=1">}}
 <!doctype html>
 <html lang="en">
 <head>
